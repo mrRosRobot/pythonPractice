@@ -62,7 +62,10 @@ notebook
 
 
 ## №8 База данных
-Дан словарь {'class':{'student':{'name':'Mike','marks':{'physics':70,'history':80}}}}.
+Дан словарь
+```python
+{'class':{'student':{'name':'Mike','marks':{'physics':70,'history':80}}}}.
+```
 Выведите на экран имя студента и его оценку по истории
 
 
